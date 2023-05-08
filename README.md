@@ -1,1 +1,2 @@
-# fid
+# This repository is created as part of the Fundamentals of Interactive Design class.
+More to be coming soon...
