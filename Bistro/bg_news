@@ -11,15 +11,16 @@
 <header>
 <h1>The Black Goose Bistro News</h1>
 <nav>
-  <ul>
+ <ul>
     <li><a href="index.html">Home</li>
     <li><a href="menu.html">Menu</li>
     <li><a href="bg_news.html">News</li>
     <li><a href="contact.html">Contact</li>
     <li><a href="jenskitchen/jenskitch.html">Jen's Kitchen</li>
-	</ul>
+ </ul>
 </nav>
 </header>
+
 <article> <header>
 	<h2>Summer Menu Items</h2>       <p><time datetime="2016-06-18">posted by BGB, June 18, 2017</time></p>  
 	</header><p>Our chef has been busy putting together the perfect menu for the summer months. Stop by to try these appetizers and main courses while the days are still long.</p> 
@@ -34,7 +35,6 @@
 	<dt>Jerk rotisserie chicken with fried plantains -- <b>new item!</b></dt><dd>Tender chicken slow-roasted on the rotisserie, flavored with spicy and fragrant jerk sauce and served with fried plantains and fresh mango. <span class="price">$12.95</span></dd>
 	</dl>
 	</section></article>
-
 
 <article> <header>
 	<h2>Low and Slow</h2> 
