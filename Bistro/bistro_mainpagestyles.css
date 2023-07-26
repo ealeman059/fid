@@ -18,7 +18,7 @@ body {
     }
     header {
       background: url(images/gooseshadow.png) 90% bottom no-repeat;
-      background-color: rgba(228, 250, 249, .5);
+      background-color: rgba(228, 250, 249, 1);
     }
     footer {
       border-top: 1px solid #57b1dc;
