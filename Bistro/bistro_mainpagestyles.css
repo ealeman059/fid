@@ -36,7 +36,7 @@ body {
 }
 
 a:link {
-        color: #000364;
+        color: #427f7f;
 }
 
 a:visited {
@@ -44,11 +44,11 @@ a:visited {
 }
 
 a:focus, a:hover {
-	color: #0007b6;
+	color: #63bcbc;
 	background-color: #fff;
 }
 
 a:active {
-	color: #5e64ff;
+	color: #7bf4f4;
 	background-color: #fff;
 }
